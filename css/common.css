@@ -1,0 +1,12 @@
+
+.header .nav-vl {
+    border-left: 2px solid #d6d6d678;
+    height: 24px;
+    margin: auto 16px;
+    display: block;
+}
+.page-container {
+    max-width: 800px;
+    padding: 80px 24px;
+    margin: auto;
+}
